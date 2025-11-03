@@ -1,5 +1,8 @@
 from random import choice as get_random_symbol
 
+from Game1.Board import Board
+from Game1.Player import Player
+
 class Game:
 
     def __init__(self):
